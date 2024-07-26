@@ -2,10 +2,10 @@
 
 
 ## INTRODUÇÃO 
-Desenvolvi esse projeto esse parceria com a DIO para demonstrar o funcionamento da biblioteca Pandas durante a execucação de uma análise exploratória em um conjunto de dados e da visualização de dados com a biblioteca Matplotlib.
+Projeto desenvolvido para realizar a análise exploratória de um conjunto de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
-## FUNCIONALIDADES
-Responder perguntas de negócios utilizando análise de dados com Python.
+## OBJETIVO
+Responder perguntas de negócios utilizando funções e plotando gráficos
 
 ## TECNOLOGIAS UTILIZADAS
 - Python com as bibliotecas Pandas e Matplotlib
