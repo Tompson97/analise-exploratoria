@@ -5,7 +5,7 @@
 Projeto desenvolvido para realizar a análise exploratória de um conjunto de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
 ## OBJETIVO
-Responder perguntas de negócios utilizando funções e plotando gráficos
+Responder perguntas de negócios utilizando metódo de análises e visualização de dados.
 
 ## TECNOLOGIAS UTILIZADAS
 - Python com as bibliotecas Pandas e Matplotlib
