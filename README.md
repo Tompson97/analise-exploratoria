@@ -1,6 +1,5 @@
 # ANÁLISE EXPLORATÓRIA | PANDAS - PYTHON
 
-
 ### INTRODUÇÃO 
 Projeto desenvolvido para realizar a análise exploratória de um conjunto de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
@@ -8,7 +7,7 @@ Projeto desenvolvido para realizar a análise exploratória de um conjunto de da
 Responder perguntas de negócios utilizando metódo de análises e visualização de dados.
 
 ### TECNOLOGIAS UTILIZADAS
-- Python com as bibliotecas Pandas e Matplotlib
+Python com as bibliotecas Pandas e Matplotlib
 
 ### SUPORTE, DÚVIDAS E SUGESTÕES
 Se precisar de algum suporte entre em contato comigo no Linkedin ou mande um e-mail que ficarei feliz em ajudar.
