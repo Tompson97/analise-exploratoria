@@ -8,11 +8,7 @@ Desenvolvi esse projeto esse parceria com a DIO para demonstrar o funcionamento 
 Exibir funções de 
 
 ## TECNOLOGIAS UTILIZADAS
-- Fórmulas do Google Sheets.
-
-## COMO USAR
-
-
+- Python com as bibliotecas Pandas e Matplotlib
 
 ## SUPORTE, DÚVIDAS E SUGESTÕES
 Se precisar de algum suporte entre em contato comigo no Linkedin ou mande um e-mail que ficarei feliz em ajudar.
