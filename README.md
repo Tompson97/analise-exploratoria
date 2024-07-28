@@ -3,7 +3,7 @@
 ### INTRODUÇÃO 
 Projeto desenvolvido para realizar a análise exploratória de um conjunto de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
-### ACESSO A ANÁLISE DISPONÍVEL NESTE REPOSITÓRIO
+### ACESSE O REPOSITÓRIO
 - [Link para análise](https://github.com/Tompson97/analise-exploratoria/blob/main/analise.ipynb)
 
 ### ANEXOS
