@@ -3,11 +3,11 @@
 ### INTRODUÇÃO 
 Projeto desenvolvido para realizar a análise exploratória de um conjunto de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
-### OBJETIVO
-Responder perguntas de negócios utilizando metódo de análises e visualização de dados.
+### ACESSO A ANÁLISE DISPONÍVEL NESTE REPOSITÓRIO
+- [Link para análise](https://github.com/Tompson97/analise-exploratoria/blob/main/analise.ipynb)
 
-### TECNOLOGIAS UTILIZADAS
-Python com as bibliotecas Pandas e Matplotlib
+### ANEXOS
+
 
 ### SUPORTE, DÚVIDAS E SUGESTÕES
 Se precisar de algum suporte entre em contato comigo no Linkedin ou mande um e-mail que ficarei feliz em ajudar.
