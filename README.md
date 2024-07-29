@@ -4,7 +4,7 @@
 Projeto desenvolvido para realizar a análise exploratória de um conjunto de dados utilizando as bibliotecas Pandas e Matplotlib do Python.
 
 ### ACESSE O REPOSITÓRIO
-- [Link para análise](https://github.com/Tompson97/analise-exploratoria/blob/main/analise.ipynb)
+- [Link para análise](https://github.com/Tompson97/analise-exploratoria/blob/main/analise_exploratoria.ipynb)
 
 ### ANEXOS
 [<img src="https://i.ibb.co/FYcyrzV/Venda-m-dia-produto.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
