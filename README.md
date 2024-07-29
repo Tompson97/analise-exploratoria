@@ -7,9 +7,9 @@ Projeto desenvolvido para realizar a análise exploratória de um conjunto de da
 - [Link para análise](https://github.com/Tompson97/analise-exploratoria/blob/main/analise_exploratoria.ipynb)
 
 ### ANEXOS
-[<img src="https://i.ibb.co/FYcyrzV/Venda-m-dia-produto.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
-[<img src="https://i.ibb.co/FnGW3D3/Lucro-por-marca.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
-[<img src="https://i.ibb.co/DK7sYc5/Lucro-por-ano.png" border="0">](https://github.com/Tompson97/analise-exploratoria)
+[<img src="https://i.ibb.co/FYcyrzV/Venda-m-dia-produto.png" border="0">]([https://github.com/Tompson97/analise-exploratoria](https://github.com/Tompson97/analise-exploratoria/blob/main/analise_exploratoria.ipynb))
+[<img src="https://i.ibb.co/FnGW3D3/Lucro-por-marca.png" border="0">]([https://github.com/Tompson97/analise-exploratoria](https://github.com/Tompson97/analise-exploratoria/blob/main/analise_exploratoria.ipynb))
+[<img src="https://i.ibb.co/DK7sYc5/Lucro-por-ano.png" border="0">]([https://github.com/Tompson97/analise-exploratoria](https://github.com/Tompson97/analise-exploratoria/blob/main/analise_exploratoria.ipynb))
 
 
 
